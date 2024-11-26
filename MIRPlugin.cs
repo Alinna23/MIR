@@ -5,7 +5,7 @@ using BepInEx.Configuration;
 namespace MIR
 {
 
-    [BepInPlugin("com.dvize.MIR", "dvize.MIR", "3.10.0")]
+    [BepInPlugin("com.dvize.MIR", "dvize.MIR", "3.0.0")]
     //[BepInDependency("com.spt-aki.core", "3.7.4")]
     class MIRPlugin : BaseUnityPlugin
     {
