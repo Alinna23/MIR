@@ -23,7 +23,7 @@ namespace MIR
         {
             new MIRMethod21Patch().Enable();
             new InteractionsHandlerPatch().Enable();
-            new ItemCheckAction().Enable();
+            /// new ItemCheckAction().Enable();
             new EFTInventoryLogicModPatch().Enable();
             new LootItemApplyPatch().Enable();
             new SlotRemoveItemPatch().Enable();
